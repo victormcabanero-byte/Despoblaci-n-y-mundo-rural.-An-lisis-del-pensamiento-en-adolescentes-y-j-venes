@@ -1,4 +1,4 @@
-# Despoblaci-n-y-mundo-rural.-An-lisis-del-pensamiento-en-adolescentes-y-j-venes
+# Despoblación-y-mundo-rural.-Análisis-del-pensamiento-en-adolescentes-y-jóvenes-y-su-valor-para-la-educación-histórica
 # 📚 Despoblación y Mundo Rural  
 _Análisis del pensamiento en adolescentes y jóvenes_
 
