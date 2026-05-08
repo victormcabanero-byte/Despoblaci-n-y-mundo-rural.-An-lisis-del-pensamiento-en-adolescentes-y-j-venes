@@ -1,3 +1,12 @@
 # Despoblaci-n-y-mundo-rural.-An-lisis-del-pensamiento-en-adolescentes-y-j-venes
-En este serie de artículos se presentan resultados de investigación sobre la mirada de los adolescentes y jóvenes universitarios sobre la despoblación y el mundo rural.
-![Banner](./descargas/portada_Banner_jpg)
+# 📚 Despoblación y Mundo Rural  
+_Análisis del pensamiento en adolescentes y jóvenes_
+
+![Banner despoblación](./img/banner-despoblacion.png)
+
+Este repositorio contiene documentos, resúmenes y materiales derivados del análisis de **estereotipos y percepciones sobre la despoblación y el mundo rural** en alumnado de secundaria.
+
+---
+
+## 📁 Estructura del repositorio
+
