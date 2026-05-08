@@ -2,11 +2,8 @@
 # 📚 Despoblación y Mundo Rural  
 _Análisis del pensamiento en adolescentes y jóvenes_
 
-![Banner despoblación](./img/banner-despoblacion.png)
 
-Este repositorio contiene documentos, resúmenes y materiales derivados del análisis de **estereotipos y percepciones sobre la despoblación y el mundo rural** en alumnado de secundaria.
-
+Este repositorio contiene documentos, resúmenes y materiales derivados del análisis de las visiones sobre la despoblación y el medio rural en adolescentes y jóvenes residentes en Segovia y Madrid
 ---
 
-## 📁 Estructura del repositorio
 
